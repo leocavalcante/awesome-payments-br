@@ -7,9 +7,6 @@ Awesome list of payment gateways in Brazil
 #### Mercado Pago
 www.mercadopago.com.br
 
-Crédito: Visa, Master, Hyper, Amex, Diners e Elo.<br>
-Débito: Visa, Master e Elo.
-
 | Parcelas | Débito | Crédito | Disponível |
 | --- | --- | --- | --- |
 | À vista | 2,29% | 4,74% | Imediato |
@@ -18,3 +15,10 @@ Débito: Visa, Master e Elo.
 | Parcelado | - | 5,31%  | Imediato |
 | Parcelado | - | 4,36% | 14 dias |
 | Parcelado | - | 3,60% | 30 dias |
+
+#### Moip
+www.moip.com.br
+
+| Parcelas | Débito/Boleto | Crédito | Disponível |
+| --- | --- | --- | --- |
+| - | 3,49% + R$0,69 | 5,49% + R$0,69 | 14 dias |
