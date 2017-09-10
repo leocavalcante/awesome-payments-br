@@ -7,7 +7,7 @@ Awesome list of payment gateways in Brazil
 www.pagseguro.uol.com.br
 
 | Parcelas | Taxa | Disponível |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | À vista | 3,99% + R$ 0,40  | 30 dias |
 | Parcelado | 3,99% + R$ 0,40 + 2,99% ao mês | 30 dias |
 
