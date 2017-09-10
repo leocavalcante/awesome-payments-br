@@ -34,3 +34,11 @@ Mensalidade: R$ 199,00 + Setup: R$ 380,00
 | 2x a 6x | - | 3,21% | a cada 30 dias por parcela |
 | 7x a 12x | - | 3,55% | a cada 30 dias por parcela |
 | AMEX | - | 4,60% | a cada 30 dias por parcela |
+
+#### Paypal
+www.paypal.com.br
+
+| Parcelas | Taxa | Disponível |
+| --- | --- | --- |
+| À vista | 4,99% + R$ 0,60 | 24 horas |
+| Parcelado | +2,39% para cada parcela | 24 horas |
