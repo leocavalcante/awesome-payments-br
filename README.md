@@ -22,10 +22,11 @@ Mensalidade: R$ 199,00 + Setup: R$ 380,00
 
 | Parcelas | Boleto | Crédito | Disponível |
 | --- | --- | --- | --- |
-| À vista | 1,28% | 2,51% | 1 dia útil |
+| À vista | R$ 1,28 | 2,51% | 1 dia útil |
 | 2x a 6x | - | 3,21% | a cada 30 dias por parcela |
 | 7x a 12x | - | 3,55% | a cada 30 dias por parcela |
 | AMEX | - | 4,60% | a cada 30 dias por parcela |
+
 
 #### MaxiPago
 http://www.maxipago.com
