@@ -3,33 +3,14 @@ Awesome list of payment gateways in Brazil
 
 ### pt-BR
 
-#### Adyen
-https://www.adyen.com
+#### PagSeguro
+www.pagseguro.uol.com.br
 
-#### Bcash
-https://bcash.com.br/
+| Parcelas | Taxa | Disponível |
+| --- | --- | --- |
+| À vista | 3,99% + R$ 0,40  | 30 dias |
+| Parcelado | 3,99% + R$ 0,40 + 2,99% ao mês | 30 dias |
 
-#### Braspag
-http://www.braspag.com.br/
-
-#### Gerencianet
-https://gerencianet.com.br
-
-#### iugu
-www.iugu.com
-
-Mensalidade: R$ 199,00 + Setup: R$ 380,00
-
-| Parcelas | Boleto | Crédito | Disponível |
-| --- | --- | --- | --- |
-| À vista | R$ 1,28 | 2,51% | 1 dia útil |
-| 2x a 6x | - | 3,21% | a cada 30 dias por parcela |
-| 7x a 12x | - | 3,55% | a cada 30 dias por parcela |
-| AMEX | - | 4,60% | a cada 30 dias por parcela |
-
-
-#### MaxiPago
-http://www.maxipago.com
 
 #### Mercado Pago
 www.mercadopago.com.br
@@ -50,19 +31,17 @@ www.moip.com.br
 | --- | --- | --- | --- |
 | - | 3,49% + R$0,69 | 5,49% + R$0,69 | 14 dias |
 
-#### Mundipagg
-www.mundipagg.com
+#### iugu
+www.iugu.com
 
-#### PagSeguro
-www.pagseguro.uol.com.br
+Mensalidade: R$ 199,00 + Setup: R$ 380,00
 
-| Parcelas | Taxa | Disponível |
-| --- | --- | --- |
-| À vista | 3,99% + R$ 0,40  | 30 dias |
-| Parcelado | 3,99% + R$ 0,40 + 2,99% ao mês | 30 dias |
-
-#### PagueVeloz
-https://www.pagueveloz.com.br
+| Parcelas | Boleto | Crédito | Disponível |
+| --- | --- | --- | --- |
+| À vista | R$ 1,28 | 2,51% | 1 dia útil |
+| 2x a 6x | - | 3,21% | a cada 30 dias por parcela |
+| 7x a 12x | - | 3,55% | a cada 30 dias por parcela |
+| AMEX | - | 4,60% | a cada 30 dias por parcela |
 
 #### Paypal
 www.paypal.com.br
@@ -73,9 +52,3 @@ www.paypal.com.br
 | Parcelado | +2,39% para cada parcela | 24 horas |
 | À vista | 3,60% + R$ 0,40 | 30 dias |
 | Parcelado | +2,39% a cada parcela | 30 dias |
-
-#### Stripe
-https://stripe.com
-
-#### Vindi
-www.vindi.com.br
