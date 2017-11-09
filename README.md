@@ -52,3 +52,14 @@ www.paypal.com.br
 | Parcelado | +2,39% para cada parcela | 24 horas |
 | À vista | 3,60% + R$ 0,40 | 30 dias |
 | Parcelado | +2,39% a cada parcela | 30 dias |
+
+
+#### PayU
+www.payulatam.com/br
+
+| Parcelas | Boleto | Crédito | Disponível |
+| --- | --- | --- | --- |
+| À vista | - | 3,99% + R$ 0,40  | 30 dias |
+| À vista | R$3,00 | - | 3 dias |
+
+
