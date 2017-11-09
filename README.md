@@ -62,4 +62,9 @@ www.payulatam.com/br
 | À vista | - | 3,99% + R$ 0,40  | 30 dias |
 | À vista | R$3,00 | - | 3 dias |
 
+#### Stripe
+www.stripe.com/global#BR
 
+| Parcelas | Taxa | Disponível |
+| --- | --- | --- |
+| Á vista | 3,99% + R$ 0,50 | 30 dias |
