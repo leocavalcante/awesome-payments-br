@@ -24,12 +24,14 @@ www.mercadopago.com.br
 | Parcelado | - | 4,36% | 14 dias |
 | Parcelado | - | 3,60% | 30 dias |
 
-#### Moip
-www.moip.com.br
+#### Wirecard
+www.wirecard.com.br
 
-| Parcelas | Débito/Boleto | Crédito | Disponível |
-| --- | --- | --- | --- |
-| - | 3,49% + R$0,69 | 5,49% + R$0,69 | 14 dias |
+| Parcelas | Boleto | Débito | Crédito | Disponível |
+| --- | --- | --- | --- | --- |
+| À vista | R$3,49 | 3,49% + R$0,69 | 5,49% + R$0,69 | 14 dias |
+
+###### 2x +4,50% | 3x +5,00% | 4x +5,50% | 5x +6,50% | 6x +7,50% | 7x +8,50% | 8x +9,50% | 9x +10,50% | 10x +11,50% | 11x +12,00% | 12x +12,50%
 
 #### iugu
 www.iugu.com
